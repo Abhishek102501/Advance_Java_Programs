@@ -1,6 +1,9 @@
 package Encapsulation;
 import java.util.*;
-
+/*
+ Encapsulation -> declaring private variable and accessing them using
+                  getter and setter method which have prefix get and set
+ */
 class Student{
 	String name;
 	String course;

@@ -25,10 +25,10 @@ public static void main(String[] args) {
 		}
 	};
 	
-	v.checkVoter(20);
-	CheckVoter cv = new CheckVoter();
-	Voter vl = vl::CheckVoter;
-	v1.checkVoter(17);
+//	v.checkVoter(20);
+//	CheckVoter cv = new CheckVoter();
+//	Voter vl = vl::CheckVoter;
+//	v1.checkVoter(17);
 	
 }
 }

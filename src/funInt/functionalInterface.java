@@ -49,7 +49,9 @@ public class functionalInterface {
 		
 		//Lambda Expression  with multiple line->
 		
-		Add a2 = (int n1, int n2) -> {return (n1 + n2)};
+		Add a2 = (int n1, int n2) ->{ 
+			return n1 + n2;
+				};
 		System.out.println("Sum : " + a1.calculate(23,34));
 	}
 }
